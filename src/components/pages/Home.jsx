@@ -73,7 +73,7 @@ const Home = (props) => {
           <AddIcon />
         </Fab>
       </Button>
-      <p>add user by clicking on right side + icon</p>
+      <p>you can add user by clicking on right side + icon</p>
       <Button
                     onClick={save}
                     style={{
